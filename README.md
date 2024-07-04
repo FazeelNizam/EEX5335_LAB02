@@ -90,4 +90,4 @@ Feel free to open issues or submit pull requests if you have any suggestions or 
 
 - Based on examples from:
   > "Operating System Concepts" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
-  > JavaPoint and GeeksforGeeks
+- JavaPoint and GeeksforGeeks
